@@ -27,4 +27,4 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
 ![Screenshot 2023-09-29 224155](https://github.com/JAbhi09/house-price-predictor-app/assets/143057373/405e5e50-b3f2-4e8e-8b04-4aef532cdacf)
 ![Screenshot 2023-09-29 224254](https://github.com/JAbhi09/house-price-predictor-app/assets/143057373/45a3cd47-1247-4316-9ba8-84b0cf46c6f5)
-![Screenshot 2023-09-29 224315](https://github.com/JAbhi09/house-price-predictor-app/assets/143057373/9218eda6-0e70-42cb-94fe-981a1a5b16dc)
+![Screenshot 2023-09-29 225651](https://github.com/JAbhi09/house-price-predictor-app/assets/143057373/feca2252-39cb-4538-870b-d427633ad700)
