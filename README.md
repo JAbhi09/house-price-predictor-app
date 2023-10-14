@@ -23,6 +23,7 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 - Deployment: Implement the model using streamlit.
 
 **The deployment of the project using streamlit**
+
 *Images*
 
 ![Screenshot 2023-09-29 224155](https://github.com/JAbhi09/house-price-predictor-app/assets/143057373/405e5e50-b3f2-4e8e-8b04-4aef532cdacf)
